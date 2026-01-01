@@ -70,6 +70,7 @@ R² Score
 A plot comparing the first 100 predictions is also included.
 
 📁 Project Structure
+
 ├── data/
 │   └── Clean_Dataset.csv
 ├── notebooks/
