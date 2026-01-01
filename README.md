@@ -72,15 +72,25 @@ A plot comparing the first 100 predictions is also included.
 📁 Project Structure
 
 ├── data/
+
 │   └── Clean_Dataset.csv
+
 ├── notebooks/
+
 │   └── model_training.ipynb
+
 ├── src/
+
 │   ├── preprocessing.py
+
 │   ├── train_xgb.py
+
 │   ├── train_rf.py
+
 │   └── evaluate.py
+
 ├── README.md
+
 └── requirements.txt
 
 📈 Results Summary
